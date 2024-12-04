@@ -1,8 +1,8 @@
 ﻿// Exercise 5 Task 2 TODO #1: Add the library references to support Semantic Kernel, Chat Completion,
 // and OpenAI Prompt Execution settings declarations.
- using Microsoft.SemanticKernel;
- using Microsoft.SemanticKernel.ChatCompletion;
- using Microsoft.SemanticKernel.Connectors.OpenAI;
+using Microsoft.SemanticKernel;
+using Microsoft.SemanticKernel.ChatCompletion;
+using Microsoft.SemanticKernel.Connectors.OpenAI;
 
 namespace ContosoSuitesWebAPI.Agents
 {

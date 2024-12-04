@@ -2,6 +2,7 @@
 using ContosoSuitesWebAPI.Entities;
 using Microsoft.Azure.Cosmos;
 using System.Globalization;
+using Microsoft.SemanticKernel;
 
 namespace ContosoSuitesWebAPI.Services
 {
